@@ -1,7 +1,8 @@
 ---
 layout: article
 title: Welcome to Gwen's Blog~
-lang: en-GB
+lang: en
+tags: Life
 sidebar:
 nav: layouts
 ---
@@ -22,21 +23,9 @@ You can also contact with me by sending email (Just press the Mail button below)
 
 
 
-```c++
-#include <iostream>
-
-int main(){
-	std::cout << "Hello, World!" << std::endl;
-}
-```
-
-
-
 
 
 <!--more-->
 
 
-
----
 
