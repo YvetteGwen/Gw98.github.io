@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Welcome to Gwen's blog!
+title: Welcome to Gwen's Blog~
 sidebar:
-	nav: layouts
+nav: layouts
 ---
 
 ### Self-introduction
