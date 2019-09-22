@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Welcome to Gwen's Blog~
+lang: en
 sidebar:
 nav: layouts
 ---
@@ -30,8 +31,6 @@ int main(){
 ```
 
 
-
----
 
 
 
